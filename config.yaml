@@ -1,0 +1,75 @@
+baseURL: "https://www.example.com/"
+theme: "arc-en-ciel-product-hugo-theme"
+languageCode: "en-us"
+
+title: "NetOps"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "NetOps"
+  description: "Maitrisez vos flux réseau"
+  images: 
+    - "images/hero-image.png"
+  custom_css:
+    - "css/foo.css" 
+    - "css/bar.css"
+  style:
+    primary_color: "#219EBC"
+    secondary_color: "#8ECAE6"
+    danger_color: "#FB8500"
+    light_color: "#FFFFFF"
+
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+#  social:
+#    dribbble: "#"
+#   instagram: "#"
+#    facebook: "#"
+#    twitter: "#"
+
+#  location:
+#    - "3891 Ranchview Dr. Richardson, California 62639"
+#    - "4517 Washington Ave. Manchester, Kentucky 39495"
+
+  contact:
+    - "contact@arc-en-ciel.io"
+
+  copyright: "© 2023 Arc-en-ciel Tout droit réservé"
+
+menus:
+  main:
+    - name: "Accueil"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Tarifs"
+      url: "/tarifs"
+      weight: 4
+
+  buttons:
+    - name: "Nous contacter"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Accueil"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Tarifs"
+      url: "/#"
+      weight: 4
+
+taxonomies:
+  series: "series"
+  tags: "tags"

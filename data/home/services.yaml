@@ -1,0 +1,18 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Fonctionnalités"
+#  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Workflow d'approbation"
+      text: "Chaque partie prenante ajoute uniquement ce qui est pertinent."
+
+    - image: "images/services-web-development.png"
+      title: "Contrôle continu"
+      text: "Fixez les règles, et vérifiez la conformité avec vos flux"
+
+    - image: "images/services-web-development.png"
+      title: "Référentiel unique"
+      text: "Centralisez toutes vos règles en une place unique, avec tout l'historique des modifications"

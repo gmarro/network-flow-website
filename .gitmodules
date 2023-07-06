@@ -1,0 +1,3 @@
+[submodule "themes/arc-en-ciel-product-hugo-theme"]
+	path = themes/arc-en-ciel-product-hugo-theme
+	url = git@github.com:gmarro/arc-en-ciel-product-hugo-theme.git

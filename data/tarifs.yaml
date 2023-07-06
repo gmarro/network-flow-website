@@ -1,0 +1,24 @@
+enabled: true
+title: "tarifs"
+
+content:
+  title: "Tarifs"
+  description: "Toujours adaptés à votre situation"
+  cards:
+    - monthlyPrice: "39€"
+      planName: "Basic"
+      description: "L'essentiel pour commencer à organiser ses flux."
+      users: "3"
+      functionalities : ["Référentiel unique des flux", "Historisation des modifications"]
+
+    - monthlyPrice: "99€"
+      planName: "Standard"
+      description: "Donnez une dimension collaborative à la gestion de vos flux."
+      users: "10"
+      functionalities : ["Toutes les fonctionnalités du plan Basic", "Workflow de gestion de flux", "Conformité des règles", "Utilisateur supplémentaire : +5€/mois"]
+
+    - monthlyPrice: "599€"
+      planName: "Premium"
+      description: "Profitez de toutes les fonctionnalités, tout en intégrant la solution dans votre SI"
+      users: "Illimité"
+      functionalities : ["Toutes les fonctionnalités du plan Standard", "Support premium", "Intégration AD", "Personnalisation de l'interface à votre société"]

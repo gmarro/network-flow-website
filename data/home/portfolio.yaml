@@ -1,0 +1,23 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Stratégique"
+    title: "Définissez et exécutez votre stratégie de flux réseau, simplement"
+    text: "Notre catalogue de directives vous permettra de définir une stratégie claire et pragmatique."
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Pour tous"
+    title: "Centralisez vos besoins métier, vos exigences sécurité et vos actions opérationnelles"
+    text: "Au fur et à mesure de l'avancement des étapes de la demande de flux, les données sont enrichies par les spécialités de chaque intervenant."
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Pilotage"
+    title: "En un clin d'oeil, une vue d'ensemble sur votre réseau et sa conformité"
+    text: "Ayez une vision d'ensemble de vos flux, et de la conformité avec votre stratégie grâce à des dashboard clairs et compréhensibles"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "A venir"
+    title: "Automatisez la génération de vos configurations firewall"
+    text: "Accélerez et sécurisez vos déploiements avec la possibilité de générer automatiquement les modifications à apporter selon votre modèle de Firewall"

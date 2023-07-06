@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "**Maîtrisez** vos flux réseau"
+  text: "Gérez tous les flux réseau de votre entreprise dans un référentiel unique. Ajouter du cadre et de l'historisation à vos changements."
+
+  buttonPrimary:
+    label: "En savoir plus"
+    url: "#portfolio"
+
+  buttonSecondary:
+    label: "Nous contacter"
+    url: ""
+
